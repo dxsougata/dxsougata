@@ -43,7 +43,7 @@ I’m a passionate programmer with a strong foundation in:
 ## 📫 Connect with Me
 
 - 🌐 [LinkedIn](www.linkedin.com/in/sougata-kundu-8a0345289) 
-- ✉️ Email: 04sougatakundu@gmail.com
+- ✉️ 04sougatakundu@gmail.com
 
 ---
 
