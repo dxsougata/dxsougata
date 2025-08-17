@@ -70,7 +70,7 @@ I merge creativity with code to build cool projects 🚀.
 
 ---
 
-## 📂 Roadmap  
+## 💥 Interest
 
 - [ ] 🔍 OpenCV Experiments – Real-time filters & CV tools  
 - [ ] 🤖 LLM Playground – Mini chatbots & prompt engineering  
