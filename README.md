@@ -1,8 +1,5 @@
 <div align="center">
 
-# ✨ Welcome to **dxLab** ✨  
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=800&color=00D1FF&center=true&vCenter=true&width=700&lines=👋+Hey+there!;🚀+Welcome+to+dxLab;💻+Programmer+%7C+ML+Enthusiast+%7C+AI+Explorer;🧠+Machine+Learning+Lover;📸+Exploring+Computer+Vision;⚡+Turning+Ideas+Into+Reality!)
 
 </div>
 
