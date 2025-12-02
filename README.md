@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me  
 
-I’m **Sougata Kundu**, a passionate programmer & AI explorer.  
+I’m **Sougata**, a passionate programmer & ML explorer.  
 I merge creativity with code to build cool projects 🚀.  
 
 - 🔹 **Languages:** C, C++, Python  
