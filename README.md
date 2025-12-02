@@ -1,9 +1,4 @@
-<div align="center">
 
-
-</div>
-
----
 
 ## 👨‍💻 About Me  
 
@@ -52,13 +47,11 @@ I merge creativity with code to build cool projects 🚀.
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dxsougata&show_icons=true&theme=radical" height="160"/>
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dxsougata&theme=radical" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxsougata&layout=compact&theme=radical" height="160"/>
-</p>
+
 
 
 <p align="center">
@@ -96,5 +89,5 @@ I merge creativity with code to build cool projects 🚀.
 
 ---
 
-⭐ **Thanks for visiting dxLab!**  
+⭐ **Thanks for visiting**  
 💡 *“Keep coding, keep exploring, keep building.”*
