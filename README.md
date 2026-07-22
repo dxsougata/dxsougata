@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me  
 
 I’m **Sougata**, a passionate programmer & ML explorer.  
-I merge creativity with code to build cool projects 🚀.  
+I merge creativity with code to build cool projects .  
 
 - 🔹 **Languages:** C, C++, Python  
 - 🔹 **Databases:** MySQL, Basics of DBMS  
