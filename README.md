@@ -1,6 +1,6 @@
 
 
-## 👨‍💻 About Me  
+##  About Me  
 
 I’m **Sougata**, a passionate programmer & ML explorer.  
 I merge creativity with code to build cool projects .  
@@ -13,7 +13,7 @@ I merge creativity with code to build cool projects .
 
 ---
 
-## 🛠️ Technologies & Tools  
+##  Technologies & Tools  
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-blue.svg?style=for-the-badge&logo=c&logoColor=white" />
@@ -32,7 +32,7 @@ I merge creativity with code to build cool projects .
 
 ---
 
-## 🛠️ Software Experience  
+##  Software Experience  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Autodesk%20Fusion%20360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
@@ -44,7 +44,7 @@ I merge creativity with code to build cool projects .
 
 ---
 
-## 📈 GitHub Stats  
+##  GitHub Stats  
 
 <p align="center">
  
@@ -60,7 +60,7 @@ I merge creativity with code to build cool projects .
 
 ---
 
-## 💥 Interest
+##  Interest
 
 - [ ] 🔍 OpenCV Experiments – Real-time filters & CV tools  
 - [ ] 🤖 LLM Playground – Mini chatbots & prompt engineering  
@@ -69,7 +69,7 @@ I merge creativity with code to build cool projects .
 
 ---
 
-## 📫 Connect with Me  
+##  Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dxsougata/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -89,5 +89,5 @@ I merge creativity with code to build cool projects .
 
 ---
 
-⭐ **Thanks for visiting**  
-💡 *“Keep coding, keep exploring, keep building.”*
+ **Thanks for visiting**  
+ *“Keep coding, keep exploring, keep building.”*
