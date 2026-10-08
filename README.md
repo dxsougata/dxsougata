@@ -2,11 +2,8 @@
   <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="680" alt="Person coding at a desk" />
 </div>
-  <h1>Sougata Kundu</h1>
-  <p>Computer Science Student · Machine Learning · AI · Computer Vision</p>
-
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+useful+software+with+Python;Exploring+LLMs%2C+computer+vision%2C+and+ML;Turning+ideas+into+working+projects" alt="Typing animation describing my interests" />
-
+  
+---
   <br />
   <img src="https://komarev.com/ghpvc/?username=dxsougata&label=PROFILE%20VIEWS&color=334155&style=flat-square" alt="Profile view counter" />
   <img src="https://img.shields.io/github/followers/dxsougata?label=FOLLOWERS&style=flat-square&color=334155" alt="GitHub followers" />
